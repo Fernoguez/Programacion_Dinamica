@@ -1,4 +1,4 @@
-# 📈 Conjunto independiente de peso máximo en un grafo de camino simple
+# 📈 Conjunto Independiente de Peso Máximo en un grafo de camino simple
 
 Este repositorio implementa la solución al problema del **Conjunto Independiente de Peso Máximo (Maximum Weight Independent Set)** en un **grafo de camino simple**, utilizando **programación dinámica** y una fase de **reconstrucción de la solución**.  
 Además, se incluye una **visualización gráfica** de la instancia de entrada y del conjunto óptimo obtenido.
